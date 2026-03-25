@@ -55,7 +55,7 @@ task-manager-api/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/snehareddy2112/task-manager-api
 cd task-manager-api
 ````
 
