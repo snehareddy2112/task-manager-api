@@ -1,5 +1,3 @@
-
-```markdown
 # 🚀 Task Manager API
 
 A production-ready RESTful API built with Node.js, Express.js, and MongoDB that supports user authentication and task management with secure access control.
@@ -184,5 +182,3 @@ All responses follow a consistent format:
 ## ⭐ Final Note
 
 This project demonstrates backend development best practices including authentication, authorization, error handling, and API documentation.
-
-```
